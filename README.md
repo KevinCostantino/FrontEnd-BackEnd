@@ -1,2 +1,4 @@
 # FrontEnd-BackEnd
-Projetos focados em frond ou back
+Projetos focados em front ou back
+
+(em construção)
